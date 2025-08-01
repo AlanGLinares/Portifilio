@@ -14,7 +14,7 @@ const Hero = () => {
             <h1 className="font-bold text-4xl font-monteserrat md:text-6xl text-center md:text-left md:flex-nowrap text-[#4A4A4A] ">
               Olá! Meu Nome é <span className="text-[#007BFF]">Alan</span>
             </h1>
-            <div className=" w-full">
+            <div>
               <p className="md:w-[705px] font-monteserrat py-5 text-center md:text-left ">
                 Sou formado em Análise e Desenvolvimento de Sistemas e venho da
                 segurança privada, em transição para a área de tecnologia. Minha

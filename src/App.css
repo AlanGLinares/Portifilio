@@ -7,15 +7,12 @@
   width: 100%;
 }
 
-.font-title {
-  font-family: "Montserrat", sans-serif;
-  font-size: 64px;
-  font-weight: bold;
-  color: #4a4a4a;
-}
-
 .font-monteserrat {
   font-family: "Montserrat", sans-serif;
+}
+
+.font-opensans {
+  font-family: "Open Sans", sans-serif;
 }
 
 .font-a {
@@ -29,7 +26,6 @@
   padding: 12px 24px;
   border-radius: 8px;
 }
-
 
 .font-small {
   font-size: 12px;
